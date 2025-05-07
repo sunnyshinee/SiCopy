@@ -55,7 +55,7 @@
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/NAMA_KAMU/sicopy-gis.git
+   git clone https://github.com/sunnyshinee/SiCopy.git
    ```
 
 2. Jalankan via browser lokal (XAMPP atau live-server)
