@@ -1,0 +1,20 @@
+# Sistem file
+.DS_Store
+Thumbs.db
+
+# File log
+*.log
+
+# File lingkungan (env)
+.env
+
+# Cache dan backup lokal
+*.bak
+*.tmp
+
+# Folder untuk dependency (jika pakai Composer atau Node.js)
+vendor/
+node_modules/
+
+# File konfigurasi editor (opsional)
+.vscode/
